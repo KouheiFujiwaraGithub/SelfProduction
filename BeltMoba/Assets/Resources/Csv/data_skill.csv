@@ -1,0 +1,7 @@
+Id,Type,Name,Description,RestTime,NeedStamina,Range,ExtraAttack,Asset
+1,ATTACK,ソードアッタク,剣で攻撃,0.5,0,2,5,Sprites/Skill/1
+2,ATTACK,ファイアーボール,炎の弾を前方に放つ攻撃,5,8,10,10,Sprites/Skill/2
+3,ACTION,疾走,一瞬だけ前方へと加速する。加速時は無敵時間が発生。,3,3,10,0,Sprites/Skill/3
+4,ACTION,バックステップ,後ろへ加速する。加速時は無敵時間が発生。,3,3,10,0,Sprites/Skill/4
+5,ATTACK,体当たり,前方に対して体当たりをおこなう,3,3,5,5,Sprites/Skill/5
+6,ATTACK,タワーシールド,タワーのシールドダメージを与える(シールド内にいる敵へ分散ダメージ),1,0,20,0,Sprites/Skill/4
